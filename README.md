@@ -1,5 +1,5 @@
 # Crawler for cars.com
-A python crawler which can crawl car information from [cars.com](https://www.cars.com). It supports
+Carwler is a python crawler which can crawl car information from [cars.com](https://www.cars.com). It supports
 python 3.6+.
 The below libraries are needed.
 
